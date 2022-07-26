@@ -6,9 +6,9 @@
 ### Seja muito bem vindo ao meu perfil GitHub 👋 
 
 
-- 🔭 Atualmente estou trabalhando na empresa Unimed Campo Grande como Assistente de TI
-- 🌱 Atualmente estou aprendendo tecnologias para desenvolvimento WEB como o HTML, CSS, JavaScript e ASP.NET
-- 👯 Estou procurando uma vaga como junior para demonstrar meu conhecimento na área
+- 🔭 Atualmente estou trabalhando na empresa Unimed Campo Grande como Assistente de TI.
+- 🌱 Estou aprendendo tecnologias para desenvolvimento WEB como o HTML, CSS, JavaScript e ASP.NET.
+- 👯 Procuro uma vaga como Desenvolvedor Junior para demonstrar meu conhecimento na área, busco minha primeira oportunidade.
 
 </br>
 
