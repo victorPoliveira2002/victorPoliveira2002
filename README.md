@@ -5,8 +5,8 @@
 
 
 - 🔭 Atualmente estou trabalhando na empresa Unimed Campo Grande como Assistente de TI.
-- 🌱 Estou aprendendo tecnologias para desenvolvimento WEB como o HTML, CSS, JavaScript e ASP.NET.
-- 👯 Busco minha primeira oportunidade como Desenvolvedor Junior na área do Frontend e futuramente virar um FullStack.
+- 🌱 Já possuo varios projetos utilizando as linguagens de HTML, CSS, JS, BULMA
+- 👯 Busco minha primeira oportunidade como Desenvolvedor Junior na área do Frontend
  
  ##
  
