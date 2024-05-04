@@ -3,9 +3,8 @@
 ### Um pouco sobre mim
 <img align="right" src="https://user-images.githubusercontent.com/72527282/206489611-980cddf9-5f98-4d69-9900-ba4b486e88e5.gif" width="220px" height="130px" alt="about me" />
 <ul align="left">
-    <li>🔭 Atualmente estou empregado na área de suporte de sistemas, hoje estou alocado na Unimed a quase 3 anos</li>
-    <li>🚀 Trabalho com o desenvolvimento WEB faz 1 ano, utilizando HTML, CSS, JavaScript e REACT, alem de outros Frameworks.</li>
-    <li>🎓 Busco uma oportunidade como Desenvolvedor FrontEnd Junior </li>
+    <li>🔭 Atualmente estou empregado na área de suporte de sistemas, hoje estou alocado na Unimed a quase 4 anos</li>
+    <li>🚀 Trabalho com o desenvolvimento WEB utilizando HTML, CSS, JavaScript e REACT, alem de outros Frameworks.</li>
 </ul>
 
  ##
